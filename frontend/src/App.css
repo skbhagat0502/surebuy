@@ -1,0 +1,8 @@
+body {
+  padding: 0 5vmax;
+}
+@media screen and (max-width: 600px) {
+  body {
+    padding: 0;
+  }
+}
